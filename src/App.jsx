@@ -8,7 +8,7 @@ import "./App.css";
 const App = () => {
   return (
     <Wrapper>
-      <h1>Kanban Board</h1>
+      <h1>Kanban Board- Task Manager (Redux TK)</h1>
       <Functionality>
         <SearchInput />
         <AddCandidateForm />

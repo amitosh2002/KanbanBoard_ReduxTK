@@ -16,7 +16,7 @@ const initialTasks = [
   {
     id: "3",
     title: "UI dispatch",
-    description: "UI is shered with client for preer review",
+    description: "UI is shared with client for preer review",
     status: "peerreview",
   },
   {
