@@ -1,3 +1,13 @@
+# KanbanBoard_ReduxTK
+
+
+This project features a dynamic Kanban Board crafted with React and Material-UI, incorporating seamless drag-and-drop functionality through react-beautiful-dnd.
+
+## Introduction
+
+The Kanban Board is designed to enhance project management by allowing teams to visualize their tasks and streamline their workflow. Embracing the principles of the Kanban methodology, it provides users with the ability to create, rearrange, and track tasks as they progress through various project stages. The board’s primary aim is to deliver an accessible overview of project status, promoting timely task execution and efficient collaboration.
+
+## Screenshot
 | ![Image 1](https://github.com/user-attachments/assets/621caaed-c669-4b85-a925-19d109e2e025) | ![Image 2](https://github.com/user-attachments/assets/0649f6fc-5bfb-4b02-8855-9d69f1b6c6a9) | ![Image 3](https://github.com/user-attachments/assets/79834759-020f-4265-93d6-ba78b08887e7) |
 | :-------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
 |                                          _Image 1_                                          |                                          _Image 2_                                          |                                          _Image 3_                                          |
